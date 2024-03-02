@@ -97,4 +97,9 @@ content: " ";
  border-top: 1px solid black;
 }
 
+body{width:100%;}
+ul {width:100%; list-style:none;}
+ul li {float:left; width:150px; font-weight:bold;}
+ul li ul {padding:0;}
+ul li ul li {float:none; padding:5px 0; font-weight:normal;}
 
